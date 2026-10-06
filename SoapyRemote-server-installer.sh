@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 #Compiling SoapySDR and SoapyRemote requires installing git, gcc, g++, make and cmake:
 # Debian / Ubuntu:
 sudo apt-get install git gcc g++ make cmake
